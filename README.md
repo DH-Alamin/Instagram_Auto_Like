@@ -5,8 +5,10 @@ Instagram Auto Like limited
 
 pip install getuseragent
 
+rm -rf Instagram_Auto_Like
+
 git clone https://github.com/DH-Alamin/Instagram_Auto_Like
 
 cd Instagram_Auto_Like
 
-python run.py
+python V2.py
