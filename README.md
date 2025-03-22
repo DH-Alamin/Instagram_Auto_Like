@@ -11,4 +11,4 @@ git clone https://github.com/DH-Alamin/Instagram_Auto_Like
 
 cd Instagram_Auto_Like
 
-python V2.py
+python run.py
